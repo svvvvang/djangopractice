@@ -8,6 +8,8 @@ apt install python3-pip
 
 apt install venv
 
+apt install iproute2
+
 apt install nano
 
 python3 -m pip install Django
