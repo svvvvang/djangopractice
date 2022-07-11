@@ -1,7 +1,7 @@
 # debiandjangoinstall
 script to install required package on debian to set up django
 
-#items
+# install items
 python3
 python3-pip
 nano
@@ -10,4 +10,4 @@ git
 
 # To run the file
 chmod +x 
-sh 
+sh djangosetupinstall.sh
